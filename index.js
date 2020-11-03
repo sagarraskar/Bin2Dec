@@ -16,7 +16,5 @@ btn.addEventListener('click', ()=>{
 })
 
 const Bin2Dec = (input)=>{
-
-
-    return parseInt(input, 2)
+	return parseInt(input, 2)
 }
